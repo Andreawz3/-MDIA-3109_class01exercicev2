@@ -4,7 +4,7 @@
 * Andrea Wu
 
 ## Description
-Display BC Skytrain stop and pathway using Leaflet Map
+This application displays the SkyTrain station stops of the Expo and Millennium Lines using Leaflet Map.
 
 ## Instalation
 npm install react react-dom leaflet
