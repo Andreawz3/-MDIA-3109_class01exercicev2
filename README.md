@@ -6,7 +6,7 @@
 ## Description
 This application displays the SkyTrain station stops of the Expo and Millennium Lines using Leaflet Map.
 
-## Instalation
+## Installation
 npm install react react-dom leaflet
 npm install react-leaflet
 
